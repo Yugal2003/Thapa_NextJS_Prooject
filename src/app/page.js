@@ -1,3 +1,8 @@
+
+
+// Note => first clone latest github repo this project are some changes
+
+
 import HeroSection from "./components/HeroSection";
 import img2 from '../app/assets/home.svg'
 

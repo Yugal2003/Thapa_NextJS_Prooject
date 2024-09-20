@@ -1,25 +1,15 @@
-STEP = 1 => create an three folder movie,about & contact and inside create file is page.js
+STEP = 1 => create an three folder product,about & contact and inside create file is page.js
 
-STEP = 2 => inside app folder we can create an new folder styles and in this folder create diff css file for header,footer etc...
+STEP = 2 => and also create an components folder inside an app folder and inside comp. create header.js file for heading of website and that header.js file import in layout.js file. Above {childern} so they show all page at top screen same as follow for footer page 
 
-STEP = 3 => and also create an components folder inside an app folder and inside comp. create header.js file & nav.js file for heading of website and that header.js file import in layout.js file. Above {childern} so they show all page at top screen
+STEP = 3 => we can import an font family for text by nextjs docs...(optional)
 
-STEP = 4 => inside an header.js file we can imported file nav.js inside nav.js file we can add 4 link home,above,movie and contact and this header.js file add inside an layout.js file 
+STEP = 4 => create herosection.js file in comp. and after this file 	join inside an about.js && page.js(main file of project) 
 
-STEP = 5 => we can import an font family for text by nextjs docs...
+STEP = 5 => inside an product folder create an new [id] as dynamic route and after fetch your api url and after when user click on show demo btn after go to [proData] of page.js file after again fetch an api & check the id pass is valid or not is valid so show the id data on page with title,img,random_text etc...
 
-STEP = 6 => add herosection.js file in comp. and after this file 	join inside an page.js(main file of project)   
+STEP = 6 =>
 
-STEP = 7 => inside an movie folder create an new [id] as dynamic route and after copy your rapidapi url & options 
+STEP = 7 =>
 
-STEP = 8 => create an .env.local file in your project and inside paste an url link of rapidAPI & get they name is RAPID_KEY
-
-STEP = 9 => create an movieCard.js file in comp. folder
-
-STEP = 10 => url & options both pass inside movie=>page.js  & after fetch an API & after the data pass inside an moviecard page in comp folder and after fetch an data and when click on btn so that data id pass inside an movie [id] file and after
-
-STEP = 11 =>
-
-STEP = 12 =>
-
-STEP = 13 => 
+STEP = 8 => 

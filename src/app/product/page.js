@@ -19,7 +19,7 @@ const Product = async () => {
         {proData.map((ele, index) => {
           return (
             <div
-              className="border-2 border-black p-4 flex flex-col justify-center items-center text-center h-78"
+              className="border-2 border-white rounded-2xl p-4 flex flex-col justify-center items-center text-center h-78"
               key={index}
             >
               <h1 className="font-bold">NO : {ele.id}</h1>

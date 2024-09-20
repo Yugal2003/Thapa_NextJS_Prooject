@@ -8,8 +8,8 @@ STEP = 4 => create herosection.js file in comp. and after this file 	join inside
 
 STEP = 5 => inside an product folder create an new [id] as dynamic route and after fetch your api url and after when user click on show demo btn after go to [proData] of page.js file after again fetch an api & check the id pass is valid or not is valid so show the id data on page with title,img,random_text etc...
 
-STEP = 6 =>
+STEP = 6 => you can create an form validation and after complete form you can create an mongodb database and get apikey and that key store inside an .env.local file
 
-STEP = 7 =>
+STEP = 7 => create an utils folder inside src and inside utils create an db.Conn.js file 
 
-STEP = 8 => 
+STEP = 8 =>  create an models folder inside src and inside models create an contact.js file
